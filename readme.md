@@ -45,8 +45,8 @@ nmap
 
 nessus
 
-![](htb/ns1.PNG)
-![](htb/ns2.PNG)
+![](vuls/ns1.PNG)
+![](vuls/ns2.PNG)
 
 openvas
 
